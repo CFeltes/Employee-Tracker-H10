@@ -50,12 +50,10 @@ Creating a template for displaying my resume, projects, and development as a cod
 Instructions on how to use your application.
 
 Visit my sites here!
-https://CFeltes.github.io/Employee-Tracker-H10/
-https://github.com/CFeltes/Employee-Tracker-H10
+https://cfeltes.github.io/Employee-Tracker-H10/
+https://github.com/CFeltes/Employee-Tracker-H10.git
+git@github.com:CFeltes/Employee-Tracker-H10.git
 
-![See First Page Screenshot](Screenshot-1.jpg)
-![See Secord Page Screenshot](Screenshot-2.jpg)
-![See Third Page Screenshot](Screenshot-3.jpg)
 
 
 ## Contributing
