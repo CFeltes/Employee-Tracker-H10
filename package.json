@@ -1,18 +1,22 @@
 {
-    "name": "employee-tracker",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "express": "^4.19.2",
-      "inquirer": "^8.2.4",
-      "pg": "^8.12.0"
-    }
+  "name": "employee-tracker-h10",
+  "version": "1.0.0",
+  "description": "Tenth homework assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFeltes/Employee-Tracker-H10.git"
+  },
+  "author": "CFeltes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CFeltes/Employee-Tracker-H10/issues"
+  },
+  "homepage": "https://github.com/CFeltes/Employee-Tracker-H10#readme",
+  "dependencies": {
+    "express": "^4.21.1"
   }
-  
+}
